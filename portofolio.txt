@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Portofolio Animasi</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      background-color: #f4f4f4;
+      animation: fadeIn 1s ease-in;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    header {
+      background-color: #4a4a4a;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+      animation: slideDown 1s ease-out;
+    }
+
+    @keyframes slideDown {
+      from { transform: translateY(-50px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+
+    section {
+      padding: 30px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    h2 {
+      color: #333;
+      position: relative;
+    }
+
+    .card {
+      background: white;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+      animation: fadeInUp 0.8s ease-in-out;
+    }
+
+    @keyframes fadeInUp {
+      from { transform: translateY(20px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #4a4a4a;
+      color: white;
+    }
+
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Halo, Saya [Nama Kamu]</h1>
+    <p>Web Developer | UI Designer | Freelancer</p>
+  </header>
+
+  <section>
+    <h2>Tentang Saya</h2>
+    <div class="card">
+      <p>Saya adalah pengembang web yang suka eksplorasi desain, teknologi baru, dan membuat solusi digital yang keren.</p>
+    </div>
+
+    <h2>Proyek</h2>
+    <div class="card">
+      <h3>Website Portofolio</h3>
+      <p>Website portofolio pribadi menggunakan HTML, CSS, dan animasi sederhana.</p>
+    </div>
+    <div class="card">
+      <h3>Landing Page Produk</h3>
+      <p>Desain bersih dengan call-to-action yang jelas untuk startup lokal.</p>
+    </div>
+
+    <h2>Kontak</h2>
+    <div class="card">
+      <p>Email: <a href="mailto:emailkamu@email.com">emailkamu@email.com</a
