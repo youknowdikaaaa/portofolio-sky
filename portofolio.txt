@@ -78,14 +78,14 @@
 <body>
 
   <header>
-    <h1>Halo, Saya [Nama Kamu]</h1>
+    <h1>Halo, Saya Andikha Ramadhan </h1>
     <p>Web Developer | UI Designer | Freelancer</p>
   </header>
 
   <section>
     <h2>Tentang Saya</h2>
     <div class="card">
-      <p>Saya adalah pengembang web yang suka eksplorasi desain, teknologi baru, dan membuat solusi digital yang keren.</p>
+      <p>This is portofolio sky.</p>
     </div>
 
     <h2>Proyek</h2>
