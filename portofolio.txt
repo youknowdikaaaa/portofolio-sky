@@ -79,7 +79,7 @@
 
   <header>
     <h1>HELLO WHATS UP GUYS </h1>
-    <p>Web Developer | UI Designer | Freelancer</p>
+    <p>CRYPTOGRAPHY | UI Designer | STORE</p>
   </header>
 
   <section>
@@ -91,13 +91,13 @@
     <h2>Proyek</h2>
     <div class="card">
       <h3>Website Portofolio</h3>
-      <p>Website portofolio pribadi menggunakan HTML, CSS, dan animasi sederhana.</p>
+      <p>Website portofolio saya</p>
     </div>
     <div class="card">
-      <h3>Landing Page Produk</h3>
-      <p>Desain bersih dengan call-to-action yang jelas untuk startup lokal.</p>
+      <h3>INFORMATION</h3>
+      <p>NO</p>
     </div>
 
     <h2>Kontak</h2>
     <div class="card">
-      <p>Email: <a href="mailto:emailkamu@email.com">emailkamu@email.com</a
+      <p>Email: <a href="andikharmdhn21@outlook.co.id">andikharmdhn21@outlook.co.id</a
